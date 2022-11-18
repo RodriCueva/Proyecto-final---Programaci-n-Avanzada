@@ -16,8 +16,7 @@ resultados de investigación.
 
 ## Dataset:
 Datos Hidrometereológicos Gobierno Regional Piura
-https://www.datosabiertos.gob.pe/dataset/datos-hidrometereol%C3%B3gicos-g
-obierno-regional-piura
+https://www.datosabiertos.gob.pe/dataset/datos-hidrometereol%C3%B3gicos-gobierno-regional-piura
 Contiene los datos Hidrometeorológicos del Sistema Hidráulico Mayor a cargo del
 Proyecto Especial Chira Piura. Este dataset muestra los datos hidrometereológicos
 registrados de las presas, estaciones hidrológicas e hidrométricas.
